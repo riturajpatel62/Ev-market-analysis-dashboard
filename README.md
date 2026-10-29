@@ -31,6 +31,8 @@ Battery Capacity and Driving Range Analysis
 Project File
 
 The Tableau workbook is available in this repository.
+https://public.tableau.com/app/profile/rituraj.patel/viz/EVMarketAnalysisDashboard_17930221062120/Dashboard1?publish=yes
+
 
 Conclusion
 
